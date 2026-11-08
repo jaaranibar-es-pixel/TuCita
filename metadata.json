@@ -1,0 +1,7 @@
+{
+  "name": "TuCita - Belleza en tu comunidad",
+  "description": "Tu belleza, siempre más cerca. Plataforma web que reúne los mejores salones de belleza de la comunidad en Aiquile, Cochabamba.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
